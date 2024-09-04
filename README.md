@@ -49,7 +49,7 @@ Here is a list of third-party packages used in our project along with the reason
  **[Riverpod](https://pub.dev/packages/riverpod)**: 
   - **Reason**: Provides a modern and flexible state management solution with enhanced type safety and modularity. It simplifies state management by eliminating the need for `BuildContext` and automatically handles resource disposal.
 
-- **[GoRouter](https://pub.dev/packages/go_router)**: 
+**[GoRouter](https://pub.dev/packages/go_router)**: 
   - **Reason**: Simplifies navigation and routing in the app. It supports declarative routing, nested routes, and deep linking, making it a powerful choice for managing complex navigation needs.
 
 **[Isar DB](https://pub.dev/packages/isar)**:
