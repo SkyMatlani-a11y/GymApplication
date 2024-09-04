@@ -55,8 +55,8 @@ Here is a list of third-party packages used in our project along with the reason
 **[Isar DB](https://pub.dev/packages/isar)**:
   - **Reason**: Isar DB is chosen for its high performance and ease of use. It is an object-oriented database that offers fast queries, real-time updates, and a simple API for managing complex data structures. Isar DB is used to handle local data storage efficiently with features such as automatic indexing and query optimization.
 
- **[Build Runner](https://pub.dev/packages/build_runner)**:
-  -**Reason**: Build Runner is used for code generation in our project. It helps automate the generation of boilerplate code and supports custom code generation tasks. This tool is essential for managing and maintaining code consistency, especially in projects that use code generation libraries like `json_serializable` or `moor`.
+**[Build Runner](https://pub.dev/packages/build_runner)**:
+  - **Reason**: Build Runner is used for code generation in our project. It helps automate the generation of boilerplate code and supports custom code generation tasks. This tool is essential for managing and maintaining code consistency, especially in projects that use code generation libraries like `json_serializable` or `moor`.
 
 ### How to Add/Update Packages
 
