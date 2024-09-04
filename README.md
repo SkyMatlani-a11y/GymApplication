@@ -25,13 +25,13 @@ Android Setup
 1) Open the project in Android Studio.
 2) Set up an Android emulator or connect an Android device.
 3) Run the app
-   flutter run
+4) flutter run
 
 iOS Setup
 1) Open the ios folder in Xcode.
 2) Set up an iOS simulator or connect an iOS device.
 3) Run the app
-   flutter run
+4) flutter run
 
 
  
